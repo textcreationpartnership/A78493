@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain quæres humbly presented in way of petition, by many Christian people, dispersed abroad throughout the county of Norfolk and city of Norwich, to the serious and grave consideration and debate of His Excellency the Lord General and of the General Councel of War. The resolution of which may tend much to the discovery of the great work of God in hand, the union of the godly, and the direction of those worthy instruments imployed in the work. Together with an humble advice for the settling of the kingdom, according to such a model hinted therein, offered as the sence of many Christians, who conceive themselves ingaged (as by their prayers, so) by their councels, to help on the present work of God; desiring it may be examined with all candor, and according as it is found agreeable to the Word of God, may be accepted; or if otherwise, rejected.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78493</idno>
+            <idno type="STC">Wing C1738</idno>
+            <idno type="STC">Thomason E544_5</idno>
+            <idno type="STC">ESTC R205983</idno>
+            <idno type="EEBO-CITATION">99865195</idno>
+            <idno type="PROQUEST">99865195</idno>
+            <idno type="VID">117432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117432)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E544[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain quæres humbly presented in way of petition, by many Christian people, dispersed abroad throughout the county of Norfolk and city of Norwich, to the serious and grave consideration and debate of His Excellency the Lord General and of the General Councel of War. The resolution of which may tend much to the discovery of the great work of God in hand, the union of the godly, and the direction of those worthy instruments imployed in the work. Together with an humble advice for the settling of the kingdom, according to such a model hinted therein, offered as the sence of many Christians, who conceive themselves ingaged (as by their prayers, so) by their councels, to help on the present work of God; desiring it may be examined with all candor, and according as it is found agreeable to the Word of God, may be accepted; or if otherwise, rejected.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert, at the Black Spread-Eagle at the West-end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Norwich (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117432:1" rendition="simple:additions"/>
+            <p>CERTAIN QVAERES <hi>Humbly preſented</hi> In way of PETITION, By many Chriſtian People, diſperſed abroad throughout the County of <hi>Norfolk</hi> and City of <hi>Norwich,</hi> To the ſerious and grave Conſideration and Debate Of His EXCELLENCY The LORD GENERAL AND Of the General Councel of War.</p>
+            <p>The reſolution of which may tend much to the diſcovery of the great work of God in hand, The Union of the godly, and the Direction of thoſe worthy Inſtruments imployed in the Work.</p>
+            <p>Together with an humble Advice For the ſettling of the Kingdom, according to ſuch a Model hinted therein, offered as the ſence of many Chriſtians, who conceive themſelves ingaged (as by their Prayers, ſo) by their Councels, to help on the preſent work of God; de<g ref="char:EOLhyphen"/>ſiring it may be examined with all candor, and ac<g ref="char:EOLhyphen"/>cording as it is found agreeable to the Word of God, may be accepted; or if otherwiſe, rejected.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> at the Black Spread-Eagle at the Weſt-end of <hi>Pauls.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117432:2"/>
+            <pb n="3" facs="tcp:117432:2"/>
+            <div type="petition">
+               <head>To his Excellency, <hi>Thomas</hi> Lord <hi>Fairfax,</hi> Lord General of the Army, and to the General Councel of War: The Petition of many Chriſtian People, diſperſed abroad through<g ref="char:EOLhyphen"/>out the County of <hi>Norfolk,</hi> and City of <hi>Norwich,</hi>
+               </head>
+               <opener>Humbly ſheweth,</opener>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">T</seg>Hat your Petitioners acknowledge themſelves unſpeakably ingaged to the God of Heaven and Earth, for his great mercy to us, in giving you hearts to offer your ſelves ſo willingly among the People, in the late great undertakings of this Nation, againſt the Enemies of the Peace thereof, and bleſſing your faithful endeavors with ſuch glorious and wonderful ſucceſſes: Whereby, as the Lord hath put great Honor upon you, crown<g ref="char:EOLhyphen"/>ing your valor with Victory, and making you the Warlike Glory of the world; ſo he hath no leſs put great Obligations upon you all, to exalt him that hath exalted you, and to lift up his glory in the world, where he hath given you a Name ſo great and glorious.</hi>
+               </p>
+               <p>
+                  <hi>And becauſe the great deſign of God in the falls and overthrows of worldly powers, that have oppoſed the Kingdom of his Son, is (by making Chriſts foes his footſtool)</hi> To lift up him on high, far above all Princi<g ref="char:EOLhyphen"/>pality, and Power, and Might, and Dominion, and every name that is named in this world, <hi>that he may be PRINCE of the Kings of the Earth, and all Nations may ſerve and obey him, as you ſhall quickly ſee, if you make the Scriptures your Counſellors; for which cauſe we take the boldneſs to tender theſe, in ſtead of many,</hi> Pſal. 2.9, 10, 11, 12. <hi>and</hi> 72. <hi>and</hi> 93. <hi>and</hi> 110.1, 2, 3, 4, 5, 6. Iſa. 2.11, 12. <hi>and</hi> 11.4, 5. <hi>and</hi> 32.1, 2. <hi>and</hi> 53.12. <hi>and</hi> 52.13, 14, 15. Jer. 33.15, 16, 17. Ezek. 34.22, 23, 24. Dan. 2.34, 35, 44, 45. <hi>and</hi> 7.26, 27. Mic. 5.4, 5, 6. Zech. 9.10. Luke 1.32, 33. Rev. 1.5, &amp;c. <hi>and</hi> 17.14. Phil. 2.9, 10, 11. Eph. 1.20, 21, 22.</p>
+               <p>
+                  <hi>Therefore our daily prayer ſhall be for your ſelves and your Noble Army, That you may never ſtumble at the ſtumbling ſtone, nor take that Honor to your ſelves, that is due to Chriſt, nor be inſtrumental for the ſetting up of a meer natural and worldly Government, like that of
+<pb n="4" facs="tcp:117432:3"/>Heathen</hi> Rome <hi>and</hi> Athens <hi>(as too many late overtures have cauſed us to fear) whereby the publike intereſt of Jeſus Chriſt will be utterly baniſhed the Kingdom in the concluſion: But that you (whom God hath Honored ſo highly, as to begin the great work of ſmiting the Image on the feet) may ſhew your ſelves thankful to him, that hath given you Victory through our Lord Jeſus Chriſt, may honor his Son, and com<g ref="char:EOLhyphen"/>fort his Saints, in whom he raigns Spiritually, and by whom he will raign viſibly over all the Nations of the world, as theſe Scriptures de<g ref="char:EOLhyphen"/>clare, with others,</hi> Dan. 2.44, 55. <hi>and</hi> 7.22, 27. Mic. 5.4, 5.6. Rev. 2.26, 27. <hi>and</hi> 5.9, 10. <hi>and</hi> 12.9, 10, 11.</p>
+               <p>To which end we humbly crave, That your ſelves would take into your ſerious and grave conſideration and debate, the particulars in the Papers herewith humbly offered to you, and alſo preſent them to the Honourable Parliament, that they may be improved ſo far, as found agreeable to the will and word of God; which done, we doubt not but God ſhall have much glory, the godly party ſhall be comforted, natural men (enjoying their Eſtates) will be at reſt alſo, and much ſatisfied; and this Commonwealth will be exalted to be both an habitation of Juſtice, and Mountain of Holineſs, even ſuch a People as God will bleſs, <hi>Jer.</hi> 31.23.</p>
+               <closer>And your Petitioners ſhall ever pray.</closer>
+            </div>
+            <div type="part">
+               <p n="1">1. Quaere. <hi>VVHether there is not a Kingdom and Dominion of the Church, or of Chriſt and the Saints, to be ex<g ref="char:EOLhyphen"/>pected upon Earth?</hi> Dan. 7.27. <hi>and</hi> 2.44. Iſa. 2.2, 3. <hi>and</hi> 60.12, &amp;c. Rev. 11.15. Rev. 5.10.</p>
+               <p n="2">2. Q. <hi>Whether this Kingdom (though more Spiritual in the Ad<g ref="char:EOLhyphen"/>miniſtration thereof, yet) be not external and viſible in the world, yea, extend not to all perſons and things univerſally?</hi> Iſa. 60.12, 14. Zech. 14.16, 17. 1 Cor. 6.2, 3. Eph. 1.21, 22.</p>
+               <p>For this end, conſider,</p>
+               <p n="1">1. How this fifth kingdom or Monarchy, comes in the place of the fourth, viſibly ſucceeding it.</p>
+               <p n="2">2. <label type="milestone">
+                     <seg type="milestoneunit">Note. </seg>
+                  </label> How the main ſcope of the Propheſies is to ſhew the ontward viſible Adminiſtration of the Government of the world, under the ſeveral kingdoms ſucceſſively, as under the firſt three Monarchies, then under the fourth; by the Roman Emperors firſt, then
+<pb n="5" facs="tcp:117432:3"/>by Antichriſt and the ten horns, and then how the Church comes to have the outward and viſible Government of the world, ſee <hi>Daniel</hi> and <hi>Revelations.</hi>
+               </p>
+               <p n="3">3. Q. <hi>Whether this Kingdom is not proper to Chriſt as Mediator, spi<g ref="char:EOLhyphen"/>cifically diſtinct from the Eſſential Kingdom of God, and from all world<g ref="char:EOLhyphen"/>ly Kingdoms, and ſo to be adminiſtred by ſuch Laws and Officers, as Chriſt (as Mediator) hath appointed in his Kingdom, and therefore not ſet up, when Magiſtrates become Chriſtian, ſeeing they rule not then as Chriſtian, nor as Chriſts Officers, nor by his Law, but as world<g ref="char:EOLhyphen"/>ly Governors; the Magiſtrates being Officers ſet up by God in that Eſſential Kingdom, not in this Mediatory Kingdom of Chriſt?</hi>
+               </p>
+               <p n="4">4 Q. <hi>Whether the Kingdoms of the world and Powers thereof, as Kings, yea Parliaments alſo, and Magiſtrates (ſo far as appertains to the preſent worldly conſtitution of them) muſt not be put down, be<g ref="char:EOLhyphen"/>fore this Kingdom can be erected?</hi> 1 Cor. 15.24, 25. Dan. 2.35, 44, 45.</p>
+               <p n="1">1 Object. <hi>But theſe Powers are not inconſiſtent with the Kingdom of Chriſt, both may ſtand together: Kings ſhall be thy nurſing fathers.</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> The perſons betruſted with theſe powers may befriend it; ſuch as rule in the Kingdoms of the world, may be ſubjects of Chriſt, but the queſtion here, is of the Government it ſelf, which relates to the great Image, <hi>Dan.</hi> 2. and ſo muſt be broken down.</p>
+               <p n="2">2 Obj. <hi>But worldly Government, as worldly or Civil, appertains not to the fourth Monarchy, nor to the Image, but as oppoſing Chriſts Kingdom.</hi>
+               </p>
+               <p n="1">1 <hi>R.</hi> The ten Toes, Horns or Kingdoms, are parts of the Image.</p>
+               <p n="2">2. They oppoſe Chriſts Kingdom as worldly or civil, becauſe they let it (not to ſpeak now of other oppoſition) as the Roman Hea<g ref="char:EOLhyphen"/>then Empire letted Antichriſt, 2 <hi>Theſſ.</hi> 2.7.</p>
+               <p n="5">5 Q. <hi>Whether this be not the time (or near upon it) of putting down that worldly Government, and erecting this new Kingdom?</hi>
+               </p>
+               <p>For this end conſider,</p>
+               <p>This kingdom is to ſucceed the fourth Monarchy immediately, the firſt part whereof, the Heatheniſh Empire, is long ſince expired, and the ſecond part, the Antichriſtian Empire, is about the expiration, the time allotted (1260 years) being about to finiſh.</p>
+               <p>Obj. <hi>But Chriſt ſaith, My Kingdom is not of this world, how then can it now be expected?</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> But he doth not ſay, It ſhall not be upon the earth, nor while
+<pb n="6" facs="tcp:117432:4"/>the earth remains (ſee the contrary <hi>Rev.</hi> 5.10.) but world is taken for the time of continuance of that worldly Government; The world is put for the Roman Monarchy, <hi>Luke</hi> 2.1. When the fifth Monarchy begins, ſhall be thoſe new Heavens and new Earth ſpoken of <hi>Heb.</hi> 2.5. The Church is called the world to come, as ſome ex<g ref="char:EOLhyphen"/>pound that place, 2 <hi>Eſdras</hi> 6.9. <hi>Eſau</hi> is the ending of the old world, and <hi>Jacob</hi> the beginning of the new, that is, The raign of the wicked; <hi>Eſau</hi>'s progeny terminates the old world, and the raign of <hi>Jacob,</hi> of the Saints (to whom the promiſe of Dominion is made) begins the new world.</p>
+               <p n="6">6 Q. <hi>Whether this Kingdom is not to be ſet up without hands,</hi> Dan. 2.45. <hi>without Humane Power and Authority,</hi> Zech. 4.6. <hi>but by the Spirit of Chriſt, calling and gathering People into leſs Families, Churches and Corporations, till they thus multiply exceedingly?</hi>
+               </p>
+               <p>Thus all worldly Political kingdoms ariſe and grow; and thus the Spiritual kingdom of the Church.</p>
+               <p n="7">7 Q. <hi>Whether theſe Churches and Corporations thus gathered and multiplyed exceedingly, ſhall not joyn together in General Aſſemblies and Church-Parliaments, chuſing and delegating ſuch Officers of Chriſt, and Repreſentatives of the Churches, as may rule Nations and King<g ref="char:EOLhyphen"/>doms, and ſo the Kingdoms of the world be the Churches?</hi>
+               </p>
+               <p>This kingdom muſt either be Monarchical, as when Chriſt the Head and King appears viſibly; or Parliamentary, as in the mean time, when Chriſts Officers and the Churches Repreſentatives rule.</p>
+            </div>
+            <div type="part">
+               <head>The brief Reſolution of the Quaeres.</head>
+               <p n="1">1. THere is a kingdom and Dominion, which the Church is to exerciſe on the Earth, 2. That extends to all perſons and things univerſally, which is to be externally and viſibly adminiſtred, 3. By ſuch Laws and Officers, as Jeſus Chriſt our Mediator hath ap<g ref="char:EOLhyphen"/>pointed in his kingdom. 4. It ſhall put down all worldly Rule and Authority (ſo far as relates to the worldly conſtitution thereof) though in the hands of Chriſtians: 5. And is to be expected about this time we live in. 6. This kingdom ſhall not be erected by humane Power and Authority, but Chriſt by his Spirit ſhall call and gather a people, and form them into ſeveral leſs Families, Churches and Corporations; and when they are multiplyed, 7. They ſhall rule the world by General Aſſemblies, or Church-Parliaments, of ſuch Offi<g ref="char:EOLhyphen"/>cers of Chriſt, and Repreſentatives of the Churches, as they ſhall
+<pb n="7" facs="tcp:117432:4"/>chuſe and delegate, which they ſhall do, till Chriſt come in Perſon.</p>
+               <p>Q. <hi>What then is the preſent intereſt of the Saints and People of God?</hi>
+               </p>
+               <p>
+                  <hi>R.</hi> To aſſociate together into ſeveral Church-Societies and Corpo<g ref="char:EOLhyphen"/>rations (according to the Congregational way) till being increaſed and multiplyed, they may combine into General Aſſemblies or Church-Parliaments (according to the Presbyterian way) and then ſhall God give them Authority and Rule over the Nations and king<g ref="char:EOLhyphen"/>doms of the world.</p>
+               <p>For the preſent to lay aſide all differences and diviſions amongſt themſelves, and combine together againſt the Antichriſtian powers of the world, <hi>Rev.</hi> 15.2, &amp;c. whom they may expect to combine againſt them univerſally, <hi>Rev.</hi> 17.13, 14.</p>
+            </div>
+            <div type="part">
+               <head>An humble Advice, concerning the Government of the Kingdom, according to the former Platform or Model.</head>
+               <p n="1">1. THat you would ſtir up godly Miniſters and People throughout the kingdom, to aſſociate or incorporate into Church-Socie<g ref="char:EOLhyphen"/>ties (as is before expreſſed) and grant them your ſpecial favor, pro<g ref="char:EOLhyphen"/>viſion and protection; ſo ſhall you be the Saints nurſing fathers.</p>
+               <p n="2">2. That you would pleaſe to ſatisfie the godly diſſenting Brethren, both of Presbytery and Independency (by ſuch ways and means as your wiſdoms ſhall finde out) how both their intereſts may meet herein, that ſo they may concur with one heart in the work.</p>
+               <p n="3">3. That Siſter-Churches overſee ſuch incorporations and imbody<g ref="char:EOLhyphen"/>ings, that onely ſuch as be of approved godlineſs, may have the right<g ref="char:EOLhyphen"/>hand of fellowſhip given to them.</p>
+               <p n="4">4. That ſuch Churches where more of them are thus collected and imbodyed in any diviſion, circuit, province, &amp;c. may chuſe and ſend out ſome delegates, members, officers, to meet in one Seſſion, leſſer Par<g ref="char:EOLhyphen"/>liament, Presbytery or Aſſembly, for ordering all ſuch affairs as there occur, according to the word, if appertaining alone to that diviſion.</p>
+               <p n="5">5. That all ſuch Churches, and the Members thereof, have voyces in Elections of ſuch as are to ſit in General Aſſemblies or Church-Par<g ref="char:EOLhyphen"/>liaments (ſo often as occaſion is) and thoſe elected to ſit there as Chriſts Officers, and the Churches Repreſentatives, and to deter<g ref="char:EOLhyphen"/>mine all things by the Word, as that Law that God will exalt alone, and make honorable.</p>
+               <p n="6">6. That you take ſpecial care to ſend out and incourage godly Preachers, that may go into the reſt of the Kingdom to preach the
+<pb n="8" facs="tcp:117432:5"/>Goſpel, that ſo when others are converted, and the Son of God makes them free, they may enjoy the former freedome with the reſt of the Saints.</p>
+            </div>
+            <div type="part">
+               <head>Additional Conſiderations for the improvement of the former Model.</head>
+               <p n="1">1. COnſider, whether it be not a far greater honor for Parliaments, Magiſtrates, &amp;c. to rule as Chriſts Officers, and the Churches Repreſentatives, then as Officers of a worldly kingdom, and Repre<g ref="char:EOLhyphen"/>ſentatives of a meer natural and worldly people?</p>
+               <p n="2">2. What right or claim meer natural and worldly men have to Rule and Government, that want a ſanctified claim to the leaſt outward bleſſings?</p>
+               <p n="3">3. How can the kingdom be the Saints, when the ungodly are ele<g ref="char:EOLhyphen"/>ctors, and elected to Govern?</p>
+               <p n="4">4. Whether it be not a ſtraitning of the Churches power, to limit it onely to Spiritual matters?</p>
+               <p n="5">5. We expect new Heavens and a new Earth, according to his promiſe, how then can it be lawful to patch up the old worldly Go<g ref="char:EOLhyphen"/>vernment, eſpecially being lapſed (for its Male-Adminiſtration) ac<g ref="char:EOLhyphen"/>cording to its own natural principles?</p>
+               <p n="6">6. Whether to repair the broken Image, that the ſtone hath ſmit<g ref="char:EOLhyphen"/>ten upon the feet, be not to fall upon the ſtone?</p>
+               <p n="7">7. Whether all powers falling upon that ſtone, have not deſerved to be broken in pieces?</p>
+               <p n="8">8. What a ſin it would be to ſet up the dim light of nature for our Law, when God hath given the light of the Scriptures, a better Law?</p>
+               <p n="9">9. How unbeſeeming it were for the followers of the Lamb, to com<g ref="char:EOLhyphen"/>ply in the leaſt with the powers of the world, in ſetting up their worldly kingdoms?</p>
+               <p n="10">10. How dangerous it is to keep out Chriſt from his throne, when he hath exalted you, and given you an opportunity to exalt him.</p>
+               <p n="11">11. What facility appears in ſettling the kingdom in the hands of the Saints, and difficulty to ſettle it any other way,
+<note n="*" place="margin">As ſubſcri<g ref="char:EOLunhyphen"/>ptions, &amp;c.</note> and not deſtroy the intereſt of the Saints.</p>
+               <p n="12">12. What advantage of reconciling the godly this way, and ſup<g ref="char:EOLhyphen"/>preſſing the Enemies of godlineſs for ever.</p>
+               <p>
+                  <hi>Theſe and many other Conſiderations of like nature hereby hinted, we humbly offer to your wiſdoms, deſiring the aſſiſtance of Gods Spi<g ref="char:EOLhyphen"/>rit in all your Councels, for the improvement of them.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
